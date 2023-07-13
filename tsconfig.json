@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2019",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": "./dist",
+    /* Redirect output structure to the directory. */
+    "rootDir": "./src"
+    /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
